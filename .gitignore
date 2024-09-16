@@ -1,7 +1,10 @@
 node_modules
 .DS_Store
 dist
+!dist/_redirects
 *.local
 .vite-inspect
 .remote-assets
 components.d.ts
+.wrangler
+slides-export.pdf

@@ -7,10 +7,11 @@
     "dev": "slidev --open",
     "export": "slidev export"
   },
-  "dependencies": {
+  "devDependencies": {
     "@slidev/cli": "^0.49.29",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
+    "playwright-chromium": "^1.47.1",
     "vue": "^3.4.38"
   }
 }
