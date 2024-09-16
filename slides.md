@@ -20,6 +20,7 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+download: true
 ---
 
 # Welcome to Slidev
