@@ -6,7 +6,3 @@ fonts:
 download: true
 src: ./pages/240916-博論の全体構成.md
 ---
-
----
-src: ./pages/240916-博論の全体構成.md
----
