@@ -1,8 +1,8 @@
 /**
- * 個別のレイアウトのスタイルのオーバーライド
+ * 個別のレイアウトのスタイルをオーバーライド
  *
- * @url https://github.com/slidevjs/themes/blob/main/packages/theme-seriph/styles/layouts.css
- * @url https://github.com/slidevjs/slidev/blob/main/packages/client/styles/layouts-base.css
+ * @see https://github.com/slidevjs/themes/blob/main/packages/theme-seriph/styles/layouts.css
+ * @see https://github.com/slidevjs/slidev/blob/main/packages/client/styles/layouts-base.css
  */
 
 .slidev-layout.cover,
